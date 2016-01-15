@@ -13,11 +13,10 @@ h1 {
     text-shadow:0px 0px 20px #002868;
 }
 p {
-	display:inline-block;
-	text-align:center;
+    text-align:center;
     background-color: rgba(0, 40, 104, 0.5);
-	margin: 10px 30%;
-    padding: 13px;
+    margin: 10px 30%;
+    padding: 13px 0px;
     color: #fff;
     font: 26px Oswald, sans-serif;
 }
